@@ -44,4 +44,25 @@ body {
   .answer{
     margin-top: 20px;
     text-align: center;
+    font-weight: 900;
+    width: 30%;
+  }
+
+  .answer-div{ 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .guide{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .guide h4{
+    width: 80%;
+    font-size: 1vw;
+    text-align: center;
   }
